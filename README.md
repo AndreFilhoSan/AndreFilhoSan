@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World! 👾
+# <img src="./img/hi.gif" width="30px"> Hello World! 👾
 
 André Filho ♂️, 27, Fortaleza-CE 🙋
 
