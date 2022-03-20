@@ -1,4 +1,4 @@
-<img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./img/ReadyPlayerMe-Avatar.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 # <img src="./img/hi.gif" width="30px"> Hello World! 👾
 
