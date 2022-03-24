@@ -51,8 +51,11 @@ _✨ Learning is continuous and there will always be a next level!_
 ---
 ### - 🎵 _"…And be a simple kind of man"_
 
-- 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/andrefilhosan/)
-- 😄 Pronomes: He/Him
+- 📫 Como me encontrar: [![Linkedin: AndreFilhoSan](https://img.shields.io/badge/-AndreFilhoSan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndreFilhoSan/)](https://www.linkedin.com/in/AndreFilhoSan/)
+
+[![GitHub AndreFilhoSan](https://img.shields.io/github/followers/AndreFilhoSan?label=AndreFilhoSan&style=social)](https://github.com/AndreFilhoSan)
+
+- 😄 Pronomes: Ele/Dele
 - 🌱 Atualmente estou aprendendo: AWS, Serverless, Docker, gRPC, PM2, Webpack.
 - 🥅 2022 Objetivos: DevOps -> Master Web3 -> Empresa
 <!-- - 👯 ... -->
