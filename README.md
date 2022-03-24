@@ -4,13 +4,13 @@
 
 André Filho ♂️, 27, Fortaleza-CE 🙋🏾‍♂️
 
-Desenvolvedor **JavaScript, Node.js, TypeScript** com foto em aprender mais sobre Web3 e Solidity, atualmente replicante antigos projetos que desenvolvi e deixa-los completos de forma Open-Source. Essa é minha forma de contibruir para a comunidade.
+Desenvolvedor **JavaScript, Node.js, TypeScript** com foco em aprender mais sobre Web3, atualmente replicante antigos projetos que desenvolvi e deixa-los completos de forma Open-Source. Essa é minha forma de contibruir para a comunidade.
 
 _✨ Learning is continuous and there will always be a next level!_
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefilhosan&layout=compact&theme=radical" alt="My Github Stats">
 
-### - 📫 Where to Find Me:
+### - 📫 One Me Econtrar:
 
 [![website](./img/globe-light.svg)](https://AndreFilhoSan.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://AndreFilhoSan.com#gh-dark-mode-only)
@@ -26,7 +26,7 @@ _✨ Learning is continuous and there will always be a next level!_
 
 ---
 
-### - 🧠 Languages and Tools:
+### - 🧠 Tecnologias e Ferramentas:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -51,11 +51,11 @@ _✨ Learning is continuous and there will always be a next level!_
 ---
 ### - 🎵 _"…And be a simple kind of man"_
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrefilhosan/)
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning: AWS, Serverless, Docker, gRPC, PM2, Webpack.
-- 🥅 2022 Goals: Master Web3
+- 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/andrefilhosan/)
+- 😄 Pronomes: He/Him
+- 🌱 Atualmente estou aprendendo: AWS, Serverless, Docker, gRPC, PM2, Webpack.
+- 🥅 2022 Objetivos: DevOps -> Master Web3 -> Empresa
 <!-- - 👯 ... -->
 <!-- - 💬 ... -->
 <!-- - 🔭 ... -->
-- ⚡ Fun fact: ...
+- ⚡ Curiosidade: ...
