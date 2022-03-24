@@ -1,10 +1,10 @@
 <img src="./img/ReadyPlayerMe-Avatar.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# <img src="./img/hi.gif" width="30px"> Hello World! 👾
+# <img src="./img/hi.gif" width="30px"> Hello World! 🖥️
 
-André Filho ♂️, 27, Fortaleza-CE 🙋
+André Filho ♂️, 27, Fortaleza-CE 🙋🏾‍♂️
 
-Estudante da **JavaScript, Node.js, TypeScript, Solidity** com foco em aprimorar o meu conhecimento e contibruir sempre que possível .
+Desenvolvedor **JavaScript, Node.js, TypeScript** com foto em aprender mais sobre Web3 e Solidity, atualmente replicante antigos projetos que desenvolvi e deixa-los completos de forma Open-Source. Essa é minha forma de contibruir para a comunidade.
 
 _✨ Learning is continuous and there will always be a next level!_
 
@@ -34,6 +34,7 @@ _✨ Learning is continuous and there will always be a next level!_
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
@@ -52,7 +53,7 @@ _✨ Learning is continuous and there will always be a next level!_
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrefilhosan/)
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning everyday.
+- 🌱 I’m currently learning: AWS, Serverless, Docker, gRPC, PM2, Webpack.
 - 🥅 2022 Goals: Master Web3
 <!-- - 👯 ... -->
 <!-- - 💬 ... -->
