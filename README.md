@@ -4,13 +4,13 @@
 
 André Filho ♂️, 27, Fortaleza-CE 🙋🏾‍♂️
 
-Desenvolvedor **JavaScript, Node.js, TypeScript** com foco em aprender mais sobre Web3, atualmente replicante antigos projetos que desenvolvi e deixa-los completos de forma Open-Source. Essa é minha forma de contibruir para a comunidade.
+Desenvolvedor **JavaScript, Node.js, TypeScript** com foco em aprender mais sobre Web3, atualmente replicando antigos projetos que desenvolvi e deixando-os completos de forma Open-Source. Essa é minha forma de contribruir para a comunidade.
 
 _✨ Learning is continuous and there will always be a next level!_
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefilhosan&layout=compact&theme=radical" alt="My Github Stats">
 
-### - 📫 One Me Econtrar:
+### - 📫 Onde Me Encontrar:
 
 [![website](./img/globe-light.svg)](https://AndreFilhoSan.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://AndreFilhoSan.com#gh-dark-mode-only)
